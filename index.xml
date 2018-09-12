@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glyn Darkin</title>
-    <link>https://darkin100.github.io/</link>
+    <link>http://glyndarkin.co.uk/</link>
     <description>Recent content on Glyn Darkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 May 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://darkin100.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://glyndarkin.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visualising your AWS infrastructure</title>
-      <link>https://darkin100.github.io/work/visualisingyourawsinfrastructure/</link>
+      <link>http://glyndarkin.co.uk/work/visualisingyourawsinfrastructure/</link>
       <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://darkin100.github.io/work/visualisingyourawsinfrastructure/</guid>
+      <guid>http://glyndarkin.co.uk/work/visualisingyourawsinfrastructure/</guid>
       <description>Building out an AWS infrastructure can get pretty complicated as there are many different elements and dependencies that need to be considered. Visualising the relationships is a great way to understand all the dependencies involved, however the existing tools may create results that were not exactly expected. The visualisations that I have been using are based on my Cloud Formation scripts. These are static JSON files that AWS uses to build out the architecture.</description>
     </item>
     
