@@ -11,9 +11,8 @@ body {
 
 main {
     margin: auto;
-    padding: 25px;
     flex: 1 0 auto;
-    max-width: 750px;
+    width: 100%;
 }
 
 /*footer*/
@@ -24,17 +23,14 @@ main {
 
 /*home page*/
 
-.intro {
-    transform: translateY(22vh);
-}
 
 .intro > h1 {
-    color: #212121;
-    font-size: 12vh;
+    color: #333;
+    font-size: 5vh;
 }
 
 .intro > h2 {
-    color: #757575;
+    color: #333;
     font-size: 3vmin;
 }
 

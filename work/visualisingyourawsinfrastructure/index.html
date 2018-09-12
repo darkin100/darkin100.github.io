@@ -4,7 +4,7 @@
          
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>404 Page not found</title>
+        <title>Visualising your AWS infrastructure</title>
         
         <style>
 
@@ -80,7 +80,7 @@
 
                 <div class="navbar-header">
 
-                    <a class="navbar-brand visible-xs" href="#">404 Page not found</a>
+                    <a class="navbar-brand visible-xs" href="#">Visualising your AWS infrastructure</a>
 
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
@@ -117,13 +117,54 @@
 
 <main>
 
-    <div class="intro">
+    <div class="item">
 
-        <h1>¯\_(ツ)_/¯</h1>
+    
+    
+    
 
-        <h2>Page not found</h2>
+    
+    
 
-    </div>
+    <h4><a href="/work/visualisingyourawsinfrastructure/">Visualising your AWS infrastructure</a></h4>
+    <h5>May 30, 2016</h5>
+    
+    <a href="https://darkin100.github.io/tags/aws"><kbd class="item-tag">aws</kbd></a>
+    
+    <a href="https://darkin100.github.io/tags/architecture"><kbd class="item-tag">architecture</kbd></a>
+    
+
+</div>
+
+
+    <br> <div class="text-justify"><p>Building out an AWS infrastructure can get pretty complicated as there are many different elements and dependencies that need to be considered. Visualising the relationships is a great way to understand all the dependencies involved, however the existing tools may create results that were not exactly expected. The visualisations that I have been using are based on my Cloud Formation scripts. These are static JSON files that AWS uses to build out the architecture. The first tool that I used to help visualise the script was Cloud Formation Viz. Its a simple command line tool that can draw out the different components and relationships.
+The below diagram is of a single EC2 instance.</p>
+
+<p>This was a pretty simple Cloud Formation Script, but already you can see how complicated its starting to get!!!!
+The second image is of a multi EC2 instance VPC.</p>
+
+<p>Now we really start to see how complex architecture is!!! In reality though you need something like this to keep track of what you are building and how it all hangs together!!!</p>
+
+<p>AWS CloudFormation has a builtin designer which visualises your cloud formation scripts, however this requires you to be editing your templates in the online designer. The benefits are you get template validation, however its difficult to tie the designer into a proper devops style workflow.</p>
+
+<p>The below is the AWS visualisation of the single EC2 instance VPC taken as a screenshot.</p>
+
+<p>The following is of the more complex multi instance VPC</p>
+
+<p>What both of these solutions has in common is that they represent the architecture as a graph diagram rather than a what we would expect of a traditional architecture diagram. Typically people expect some thing like the below. (I used Lucid Chart)</p>
+
+<p>The above is much more easily recognised as an Architecture diagram, but the reality is that its an abstraction and pov of an architecture. Its a much more digestible format for communicating your architecture.</p>
+
+<p>Summary
+Tooling is not great in this area and depending on your audience you will get very different results from handcrafting to auto-generating. At the moment for me I will be using both methods for tracking change and communicating my designs.</p>
+</div>
+
+    
+    
+
+    
+
+    
 
 </main>
 
