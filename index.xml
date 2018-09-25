@@ -13,10 +13,10 @@
     
     <item>
       <title>Visualising your AWS infrastructure</title>
-      <link>http://glyndarkin.co.uk/work/visualisingyourawsinfrastructure/</link>
+      <link>http://glyndarkin.co.uk/work/test/</link>
       <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://glyndarkin.co.uk/work/visualisingyourawsinfrastructure/</guid>
+      <guid>http://glyndarkin.co.uk/work/test/</guid>
       <description>Building out an AWS infrastructure can get pretty complicated as there are many different elements and dependencies that need to be considered. Visualising the relationships is a great way to understand all the dependencies involved, however the existing tools may create results that were not exactly expected. The visualisations that I have been using are based on my Cloud Formation scripts. These are static JSON files that AWS uses to build out the architecture.</description>
     </item>
     
