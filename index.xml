@@ -20,5 +20,15 @@
       <description>Building out an AWS infrastructure can get pretty complicated as there are many different elements and dependencies that need to be considered. Visualising the relationships is a great way to understand all the dependencies involved, however the existing tools may create results that were not exactly expected. The visualisations that I have been using are based on my Cloud Formation Scripts. These are static JSON files that AWS uses to build out the architecture.</description>
     </item>
     
+    <item>
+      <title>Crowd funding, Drones, 3D Printing and the Digital Economy</title>
+      <link>http://glyndarkin.co.uk/make/crowdfunding-drones-3dprinting/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://glyndarkin.co.uk/make/crowdfunding-drones-3dprinting/</guid>
+      <description>As software is eating our world; how we buy, build and consume products is changing. This is a story about the Digital Economy and my experience dabbling in it.
+Crowd funding It started about a year ago when I backed a new project on KickStarter. They had a nice idea for a Drone that could collapse down and fit in your pocket (large pocket). They had a slick video and got some good media attention.</description>
+    </item>
+    
   </channel>
 </rss>

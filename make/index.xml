@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makes on Glyn Darkin</title>
+    <link>http://glyndarkin.co.uk/make/</link>
+    <description>Recent content in Makes on Glyn Darkin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://glyndarkin.co.uk/make/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crowd funding, Drones, 3D Printing and the Digital Economy</title>
+      <link>http://glyndarkin.co.uk/make/crowdfunding-drones-3dprinting/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://glyndarkin.co.uk/make/crowdfunding-drones-3dprinting/</guid>
+      <description>As software is eating our world; how we buy, build and consume products is changing. This is a story about the Digital Economy and my experience dabbling in it.
+Crowd funding It started about a year ago when I backed a new project on KickStarter. They had a nice idea for a Drone that could collapse down and fit in your pocket (large pocket). They had a slick video and got some good media attention.</description>
+    </item>
+    
+  </channel>
+</rss>
