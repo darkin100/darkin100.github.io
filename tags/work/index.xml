@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Glyn Darkin</title>
-    <link>http://glyndarkin.co.uk/</link>
-    <description>Recent content on Glyn Darkin</description>
+    <title>Work on Glyn Darkin</title>
+    <link>http://glyndarkin.co.uk/tags/work/</link>
+    <description>Recent content in Work on Glyn Darkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://glyndarkin.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://glyndarkin.co.uk/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -6,18 +6,18 @@
     <description>Recent content in Aws on Glyn Darkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://glyndarkin.co.uk/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visualising your AWS infrastructure</title>
-      <link>http://glyndarkin.co.uk/work/test/</link>
-      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      <link>http://glyndarkin.co.uk/work/visualisingyourawsinfrastructure/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://glyndarkin.co.uk/work/test/</guid>
-      <description>Building out an AWS infrastructure can get pretty complicated as there are many different elements and dependencies that need to be considered. Visualising the relationships is a great way to understand all the dependencies involved, however the existing tools may create results that were not exactly expected. The visualisations that I have been using are based on my Cloud Formation scripts. These are static JSON files that AWS uses to build out the architecture.</description>
+      <guid>http://glyndarkin.co.uk/work/visualisingyourawsinfrastructure/</guid>
+      <description>Building out an AWS infrastructure can get pretty complicated as there are many different elements and dependencies that need to be considered. Visualising the relationships is a great way to understand all the dependencies involved, however the existing tools may create results that were not exactly expected. The visualisations that I have been using are based on my Cloud Formation Scripts. These are static JSON files that AWS uses to build out the architecture.</description>
     </item>
     
   </channel>
