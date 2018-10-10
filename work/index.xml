@@ -6,10 +6,20 @@
     <description>Recent content in Works on Glyn Darkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://glyndarkin.co.uk/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Demystifying the Digital Society</title>
+      <link>http://glyndarkin.co.uk/work/demystifying-the-digital-society/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://glyndarkin.co.uk/work/demystifying-the-digital-society/</guid>
+      <description>Earlier this year (2018) I was fortunate enough to be asked to do the keynote at the http://digitaltransformations.org/ conference. The context of this conference is slightly different to most tech confirences as it seeks to bring together technologists and artists and poses a number of cultural questions.
+Introduction My name is Glyn Darkin, I am and IT consultant and spend my life helping my clients on their journey to being more digital.</description>
+    </item>
     
     <item>
       <title>Visualising your AWS infrastructure</title>

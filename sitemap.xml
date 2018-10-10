@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://glyndarkin.co.uk/work/demystifying-the-digital-society/</loc>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://glyndarkin.co.uk/make/how-to-build-a-gfrc-concrete-sink/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -47,6 +52,12 @@
   </url>
   
   <url>
+    <loc>http://glyndarkin.co.uk/tags/digital/</loc>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://glyndarkin.co.uk/tags/drones/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -60,7 +71,7 @@
   
   <url>
     <loc>http://glyndarkin.co.uk/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,14 +100,20 @@
   </url>
   
   <url>
+    <loc>http://glyndarkin.co.uk/tags/transformation/</loc>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://glyndarkin.co.uk/tags/work/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://glyndarkin.co.uk/work/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
