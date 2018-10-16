@@ -1,3 +1,16 @@
+
+@import url("https://use.typekit.net/fsn8ynd.css");
+
+
+
+body {
+    background-color: #fafafa;
+    font-family: baskerville-display-pt, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+
 /*
  * Blog posts
  */
@@ -37,4 +50,17 @@ blockquote{
   padding: 0 1em;
     color: #6a737d;
     border-left: 0.25em solid #dfe2e5;
+}
+
+
+div#instafetch{
+    padding-top: 20px;
+}
+
+div#instafetch figure {
+    margin:0px;
+}
+
+div#instafetch img {
+    width: 80%;
 }
