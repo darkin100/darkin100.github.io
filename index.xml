@@ -6,10 +6,20 @@
     <description>Recent content on Glyn Darkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://glyndarkin.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AIB Case Study</title>
+      <link>http://glyndarkin.co.uk/work/aib-case-study/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://glyndarkin.co.uk/work/aib-case-study/</guid>
+      <description>Earlier this year I completed a project with AIB focused on transforming their Mortgage Customer Experience. It was a great project as it was lead by the head of Customer Experience and it was focused on a real customer problem. Below is a video case study that was put together with AIB talking about the project, challenges and the digital tools we built to support it customer journey.
+ </description>
+    </item>
     
     <item>
       <title>Demystifying the Digital Society</title>
